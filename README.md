@@ -13,6 +13,7 @@ todo:
   deep-learning:
     tensorflow
     torch
+    keras
 
   natural language processing
     nltk (python)
