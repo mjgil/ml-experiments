@@ -12,8 +12,15 @@ todo:
 
   deep-learning:
     tensorflow
+    pytorch
     torch
     keras
+    caffe
+    theano
+    
+    mxnet
+    chainer
+    cntk
 
   natural language processing
     nltk (python)
